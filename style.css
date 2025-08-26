@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f8f9fa;
+  text-align: center;
+}
+header {
+  background: #007bff;
+  color: white;
+  padding: 15px;
+}
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+.course {
+  background: white;
+  margin: 20px auto;
+  padding: 20px;
+  width: 70%;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+footer {
+  background: #343a40;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
+}
